@@ -1,0 +1,1 @@
+words=['beutiful','apple','energy','water']
